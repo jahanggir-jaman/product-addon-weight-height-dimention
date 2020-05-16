@@ -1,4 +1,4 @@
-=== Product helium addon for WooCoomerce ===
+=== Product addon for WooCoomerce ===
 Contributors: jahanggir-jaman
 Original Contributors: mikejolley, tabrisrp
 Tags: woocommerce, product, helium addon
